@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\09_DatebasePrroject\bin\Debug\09_DatebasePrroject.exe.config
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\09_DatebasePrroject\bin\Debug\09_DatebasePrroject.exe
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\09_DatebasePrroject\bin\Debug\09_DatebasePrroject.pdb
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\09_DatebasePrroject\obj\Debug\09_DatebasePrroject.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\09_DatebasePrroject\obj\Debug\09_DatebasePrroject.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\09_DatebasePrroject\obj\Debug\09_DatebasePrroject.exe
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\09_DatebasePrroject\obj\Debug\09_DatebasePrroject.pdb
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\09_DatebasePrroject\obj\Debug\09_DatebasePrroject.exe.config

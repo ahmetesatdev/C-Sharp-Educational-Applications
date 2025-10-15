@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\08_Functions\bin\Debug\08_Functions.exe.config
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\08_Functions\bin\Debug\08_Functions.exe
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\08_Functions\bin\Debug\08_Functions.pdb
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\08_Functions\obj\Debug\08_Functions.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\08_Functions\obj\Debug\08_Functions.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\08_Functions\obj\Debug\08_Functions.exe
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\08_Functions\obj\Debug\08_Functions.pdb
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\08_Functions\obj\Debug\08_Functions.exe.config

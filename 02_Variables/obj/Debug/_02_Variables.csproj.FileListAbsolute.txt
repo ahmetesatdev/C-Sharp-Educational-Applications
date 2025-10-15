@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\Lesssons\CSharpEgitimKampi\_02_Variables\bin\Debug\_02_Variables.exe.config
+C:\Users\pc\Desktop\Lesssons\CSharpEgitimKampi\_02_Variables\bin\Debug\_02_Variables.exe
+C:\Users\pc\Desktop\Lesssons\CSharpEgitimKampi\_02_Variables\bin\Debug\_02_Variables.pdb
+C:\Users\pc\Desktop\Lesssons\CSharpEgitimKampi\_02_Variables\obj\Debug\_02_Variables.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Lesssons\CSharpEgitimKampi\_02_Variables\obj\Debug\_02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Lesssons\CSharpEgitimKampi\_02_Variables\obj\Debug\_02_Variables.exe
+C:\Users\pc\Desktop\Lesssons\CSharpEgitimKampi\_02_Variables\obj\Debug\_02_Variables.pdb
+C:\Users\pc\Desktop\Lesssons\CSharpEgitimKampi\_02_Variables\obj\Debug\_02_Variables.exe.config
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\_02_Variables\bin\Debug\_02_Variables.exe.config
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\_02_Variables\bin\Debug\_02_Variables.exe
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\_02_Variables\bin\Debug\_02_Variables.pdb
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\_02_Variables\obj\Debug\_02_Variables.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\_02_Variables\obj\Debug\_02_Variables.exe.config
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\_02_Variables\obj\Debug\_02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\_02_Variables\obj\Debug\_02_Variables.exe
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\_02_Variables\obj\Debug\_02_Variables.pdb

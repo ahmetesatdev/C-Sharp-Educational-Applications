@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\05_LoopsWindStars\bin\Debug\05_LoopsWindStars.exe.config
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\05_LoopsWindStars\bin\Debug\05_LoopsWindStars.exe
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\05_LoopsWindStars\bin\Debug\05_LoopsWindStars.pdb
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\05_LoopsWindStars\obj\Debug\05_LoopsWindStars.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\05_LoopsWindStars\obj\Debug\05_LoopsWindStars.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\05_LoopsWindStars\obj\Debug\05_LoopsWindStars.exe
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\05_LoopsWindStars\obj\Debug\05_LoopsWindStars.pdb
+C:\Users\pc\Desktop\My World\Lesssons\CSharpEgitimKampi\05_LoopsWindStars\obj\Debug\05_LoopsWindStars.exe.config
