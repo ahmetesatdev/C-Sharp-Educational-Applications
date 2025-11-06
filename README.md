@@ -1,4 +1,4 @@
-📍Proje 1 : Temel yazdırma komutlarını tamamladım ve C# syntax yapınısını kavradım.
+📍Proje 1 : Temel yazdırma komutlarını tamamladım ve C# syntax yapısını kavradım.
 
 📍Proje 2 : Temel veri tiplerini öğrendim ve bu veri tipleri ile nasıl değişken tanımlanacağını kavradım.
 
